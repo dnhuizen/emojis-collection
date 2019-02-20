@@ -132,18 +132,13 @@ The Emojis are parsed by [data files](http://www.unicode.org/Public/emoji/12.0/)
 
 ## Authors
 
-* **Daniel Nieuwenhuizen** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Daniel Nieuwenhuizen** - *Initial work* - [dnhuizen](https://github.com/dnhuizen/)
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE.
 
 ## Acknowledgments
 
 * The Unicode Consortium for providing the data files
 
-
-
-```python
-
-```
